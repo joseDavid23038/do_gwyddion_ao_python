@@ -7,5 +7,5 @@
   
 Nestre trabalho também objetiva-se compreender os mecanismos de funcionamento dessas funções em operações de matrizes, replicando-os em <i>Python</i>. Este projeto foi realizado por quatro alunos da Ilum da turma de 2023 no ano de 2023. 
 
-<p align = "justify"> Neste diretório, há uma pasta nomeada como <i>Entendendo os mecanismos</i>, o qual apresenta um arquivo em <i>ipynb</i> (<i>Jupyter Notebook</i>) com o código documentado que replica tais funções citadas, além da imagem utilizada como demonstração. </p>
+<p align = "justify"> Neste diretório, há uma pasta nomeada como <i>Entendendo os mecanismos</i>, o qual apresenta um arquivo em <i>ipynb</i> (<i>Jupyter Notebook</i>) com o código documentado que replica tais funções citadas, além da imagem utilizada como demonstração e uma outra para mostrar que o código pode tratar qualquer imagem. </p>
 
