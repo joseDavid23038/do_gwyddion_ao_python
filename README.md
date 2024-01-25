@@ -30,4 +30,4 @@ Para mais informações, pode-se consultar o artigo [Microscopia de sondas: uma 
 
 ## License
 
-Este projeto está licenciado sob GNU General Public License v3.0 - consulte o arquivo [LICENSE]([www](https://github.com/joseDavid23038/do_gwyddion_ao_python/blob/main/LICENSE)https://github.com/joseDavid23038/do_gwyddion_ao_python/blob/main/LICENSE) para obter detalhes
+Este projeto está licenciado sob GNU General Public License v3.0 - consulte o arquivo [LICENSE](https://github.com/joseDavid23038/do_gwyddion_ao_python/blob/main/LICENSE) para obter detalhes
